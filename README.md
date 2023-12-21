@@ -75,3 +75,4 @@ Default web root:
 Check jenkins
 
 Checking Webhook for jenkins2
+Checking Webhook for jenkins3
